@@ -9,6 +9,8 @@ public class lawOfLargeNumber {
 
         String data = sc.nextLine();
 
-        // 왜 3개만 받아지고 종료가 될까?
+        System.out.println(data);
+
+        // 왜 3개만 받아지고 종료가 될까? -> 엔터가 입력값으로 들어가기 때문이다.
     }
 }
